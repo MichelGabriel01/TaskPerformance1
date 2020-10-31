@@ -1,0 +1,7 @@
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.csprojAssemblyReference.cache
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.CashierWindowQueueForm.resources
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.CustomerView.resources
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.Form1.resources
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.Properties.Resources.resources
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.csproj.GenerateResource.cache
+C:\Users\Michel Godala\source\repos\TaskPerformance1\TaskPerformance1\obj\Debug\TaskPerformance1.csproj.CoreCompileInputs.cache
